@@ -33,7 +33,7 @@ $this->params['breadcrumbs'][] = $this->title;
                 'label' => 'Image',
                 'value' => function ($data) {
                     return Html::img( 'images/' . $data['id'] . ".jpg",
-                        ['width' => '60px']);
+                        ['width' => '150px']);
                 },
             ],
 
