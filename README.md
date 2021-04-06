@@ -1,3 +1,18 @@
+How to deploy:
+1. update composer
+2. migrate files
+3. import from root directory 'radevs.sql' db file
+4. http://localhost/radevstest/backend/web/index.php
+    login: bahodir
+    password: 12345678
+    
+5. Top menu consists obyekt, task menus, check them
+
+
+
+
+
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
